@@ -2,4 +2,4 @@
 
 ## Hosted Link
 
-[Live Preview](https://mimicodegirl.github.io/color-flipper/)
+[Live Preview](https://github.com/mimicodegirl/color-flipper)

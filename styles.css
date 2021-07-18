@@ -232,3 +232,12 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
+.github {
+padding-top: 20px;
+}
+.fab {
+  font-size: 2.5rem;
+}
+.fab:hover{
+  color: var(--clr-black);
+}
